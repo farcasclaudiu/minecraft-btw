@@ -1,2 +1,6 @@
+.dockerignore
 .Dockerfile
 README.md
+.git
+.github
+.vscode
