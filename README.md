@@ -5,3 +5,7 @@
 ```sh
 docker build --tag clodyx/btw-server:latest .
 ```
+
+## Reference
+
+<https://wiki.btwce.com/index.php?title=Installation>
